@@ -1,0 +1,14 @@
+D:\E\Vs Studio\Lab1.1\Lab1.2\bin\Debug\net9.0\Lab1.2.exe
+D:\E\Vs Studio\Lab1.1\Lab1.2\bin\Debug\net9.0\Lab1.2.deps.json
+D:\E\Vs Studio\Lab1.1\Lab1.2\bin\Debug\net9.0\Lab1.2.runtimeconfig.json
+D:\E\Vs Studio\Lab1.1\Lab1.2\bin\Debug\net9.0\Lab1.2.dll
+D:\E\Vs Studio\Lab1.1\Lab1.2\bin\Debug\net9.0\Lab1.2.pdb
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.AssemblyInfoInputs.cache
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.AssemblyInfo.cs
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.csproj.CoreCompileInputs.cache
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.dll
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\refint\Lab1.2.dll
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.pdb
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\Lab1.2.genruntimeconfig.cache
+D:\E\Vs Studio\Lab1.1\Lab1.2\obj\Debug\net9.0\ref\Lab1.2.dll
